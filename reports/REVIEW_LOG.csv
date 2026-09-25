@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe góc dưới bên phải,added,Thấy vẫn còn gần nửa thân xe nên khoanh phần còn thấy
+1,frame_0107.jpg,xe góc dưới bên trái,added,Xe bị nhòe do chạy những vẫn thấy thân xe nên khoanh
+1,frame_0270.jpg,xe khuất sau xe van gần giữa ảnh,added,Dù bị che nhưng vẫn còn thấy 1 vùng xe nên khoanh
